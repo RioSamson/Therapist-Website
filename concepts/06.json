@@ -1,0 +1,27 @@
+{
+  "id": "06",
+  "name": "Room for You",
+  "tagline": "A warm, architectural welcome.",
+  "palette": [
+    "#F7F0E7",
+    "#44291F",
+    "#A4442B",
+    "#E5D7C7"
+  ],
+  "typography": "Georgia editorial serif with Arial practical copy; generous large type and warm contrast.",
+  "rationale": "Hospitality-inspired space makes the homepage feel like an invitation. The arch and chair are original conceptual artwork, not an implied photograph of the actual office.",
+  "homepage": [
+    "Welcome + illustrated room",
+    "Three gentle invitations",
+    "Approach introduction",
+    "Therapist portrait + biography",
+    "Practical questions",
+    "Direct contact information"
+  ],
+  "mobile": "Single column with copy before artwork; room illustration becomes a compact arch; two-column contact details remain readable.",
+  "supporting": "About section with real-portrait specification and credential slot; approach overview; expandable service, fee, access, and first-contact details.",
+  "trust": "Real therapist photography and transparent logistics should replace marked placeholders. Low-pressure language and a clear contact destination support informed choice.",
+  "seo": "Text-based headings and visible Vancouver context; add verified service pages and truthful address once confirmed. The decorative room requires no heavyweight photography.",
+  "tradeoff": "Warmth can read as a premium lifestyle brand. Keep real professional details prominent and avoid implying the illustrated room exists.",
+  "accessibility": "Warm neutral surfaces require strong text contrast. The room illustration has a descriptive accessible name that makes its conceptual nature explicit. Maintain generous mobile contact spacing."
+}

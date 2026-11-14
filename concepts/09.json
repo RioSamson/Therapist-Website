@@ -1,0 +1,27 @@
+{
+  "id": "09",
+  "name": "City & Stillness",
+  "tagline": "An urban Vancouver perspective with room to breathe.",
+  "palette": [
+    "#292B2B",
+    "#F6F2EC",
+    "#EDB392",
+    "#E4DED4"
+  ],
+  "typography": "Georgia expressive headlines; Arial for practical content; high-contrast dark opening.",
+  "rationale": "An urban rather than forest-led identity acknowledges the setting without relying on generic Pacific Northwest photography. Abstract coastal artwork is original and does not imply an office location.",
+  "homepage": [
+    "Dark urban hero with coastal illustration",
+    "Location and credentials strip",
+    "Approach introduction",
+    "Therapist profile",
+    "Service/time/place essentials and questions",
+    "Apricot contact invitation"
+  ],
+  "mobile": "Hero illustration follows the text; credential strip stacks; practical details become numbered rows; contact information stays prominent.",
+  "supporting": "About profile, approach overview, visible service/fee/location summaries, inquiry and fit details.",
+  "trust": "Specific, verified practical facts will ground the poetic opening. Real portrait and accurate address are required before launch.",
+  "seo": "Vancouver is visible in context. Add actual neighbourhood only when confirmed and supported by practice location; avoid multiple near-duplicate neighbourhood pages.",
+  "tradeoff": "Dark hero and urban imagery may feel less soothing to some audiences. Body stays light and readable; test the direction with representative prospective clients.",
+  "accessibility": "Check both dark and light sections for contrast. The skyline is a conceptual illustration, not a map. Keep the real location and access details in clearly labelled text."
+}

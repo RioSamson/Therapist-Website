@@ -1,0 +1,27 @@
+{
+  "tagline": "A contemporary gallery translated into a quiet therapeutic space.",
+  "palette": [
+    "#f7f7f2",
+    "#272724",
+    "#bfc1b5"
+  ],
+  "typography": "Georgia with expansive display sizing; utilitarian Arial captions.",
+  "rationale": "Museum captions, sculptural artwork and deliberate negative space create a restrained visual identity distinct from wellness templates.",
+  "homepage": [
+    "Oversized statement",
+    "Sculptural artwork and contact CTA",
+    "Invitation",
+    "Practitioner profile",
+    "Three-part approach",
+    "Practical details",
+    "Contact"
+  ],
+  "mobile": "Art remains full width after text; columns stack; display type reduces without sacrificing hierarchy.",
+  "supporting": "Anchored profile and approach sections plus expandable visit/fees/access information.",
+  "trust": "Clear practitioner identification balances the abstract art; practical details remain available and easy to find.",
+  "seo": "Keep all meaningful messaging in text, with concise decorative art labels; add verified service terminology to production copy.",
+  "tradeoff": "Abstract art can feel impersonal; the real portrait and warm, specific biography are essential.",
+  "name": "Quiet Gallery",
+  "number": 4,
+  "accessibility": "Keep small gallery-style captions legible. The original sculpture is decorative; service, location and contact information remain real text. Avoid overusing faint greys for essential copy."
+}

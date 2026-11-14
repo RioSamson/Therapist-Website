@@ -1,0 +1,27 @@
+{
+  "id": "10",
+  "name": "Small Steps",
+  "tagline": "A gentle, guided route from curiosity to contact.",
+  "palette": [
+    "#F5F1FC",
+    "#30264D",
+    "#6C518D",
+    "#E8DFF5"
+  ],
+  "typography": "Arial / Helvetica contemporary hero and UI paired with Georgia italic and section headings.",
+  "rationale": "A numbered visual journey reduces navigation effort by organising the decision into approach, person, logistics, and inquiry. It describes site exploration, not a prescribed therapeutic sequence.",
+  "homepage": [
+    "Welcoming hero and step illustration",
+    "Four-part section navigation",
+    "Approach step",
+    "Therapist step",
+    "Practical FAQ step",
+    "Direct-contact step"
+  ],
+  "mobile": "Hero stacks, section navigation wraps two-by-two, slim timeline remains beside content, contact panel keeps clear two-column essentials.",
+  "supporting": "Profile and verified registration, approach detail, services/fees/access/inquiry FAQ.",
+  "trust": "Predictable information order gives uncertain visitors a manageable way to explore. Low-pressure language avoids implying therapy must progress in a straight line.",
+  "seo": "All four sections are visible HTML and indexable in a production version. Add actual service landing pages as warranted; do not hide core content behind an interactive wizard.",
+  "tradeoff": "A stepped metaphor may imply linear progress if written carelessly. Keep it explicitly about exploring the website, and offer direct navigation to every section.",
+  "accessibility": "The numbered sequence is optional: navigation permits direct access to practical details and contact. The vertical line is decorative. All sections must remain understandable without animation or colour."
+}

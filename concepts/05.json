@@ -1,0 +1,26 @@
+{
+  "tagline": "A thoughtful notebook, rooted in observation and everyday humanity.",
+  "palette": [
+    "#f2f0df",
+    "#34462f",
+    "#a6b18b"
+  ],
+  "typography": "Georgia for literary warmth; Arial for specimen labels and readable information.",
+  "rationale": "Original botanical line art, specimen labels and field-note structure reinterpret nature through an editorial system rather than generic forest imagery.",
+  "homepage": [
+    "Field-note hero and botanical study",
+    "Beginning statement",
+    "Therapist profile",
+    "Three observations on process",
+    "Practical field notes",
+    "Contact"
+  ],
+  "mobile": "Illustration follows the hero copy; numbered sections retain orientation; notebook labels wrap cleanly.",
+  "supporting": "Biography, actual methods and practical logistics form a clear anchored guide; FAQs expand in place.",
+  "trust": "Process language is qualified and placeholders require confirmation; practical details are easy to reach without sharing personal information.",
+  "seo": "Meaningful local and service information is live text; artwork is lightweight. Botanical metaphors should accompany literal service labels, not replace them.",
+  "tradeoff": "Nature motifs are common in this category; differentiation depends on disciplined typography and original illustration.",
+  "name": "The Field Guide",
+  "number": 5,
+  "accessibility": "Notebook labels should remain large enough to read. Botanical art is decorative. Native details controls preserve keyboard access to practical information without adding bespoke interactions."
+}

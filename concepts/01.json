@@ -1,0 +1,26 @@
+{
+  "tagline": "A literary, personal practice with a strong editorial voice.",
+  "palette": [
+    "#f5f0e5",
+    "#542126",
+    "#d6ac91"
+  ],
+  "typography": "Georgia display serif; Arial supporting text. Production candidate: an editorial serif paired with a restrained sans.",
+  "rationale": "Oversized literary typography and an architectural arch create recognition without familiar spa imagery.",
+  "homepage": [
+    "Story-led split hero",
+    "Editorial statement",
+    "Authentic portrait and biography",
+    "Three-part approach",
+    "Practical questions",
+    "Contact invitation"
+  ],
+  "mobile": "Hero and arch stack; display text stays prominent; practical questions remain native accordions.",
+  "supporting": "About, approach, and practical detail sections are navigable; expandable first-session, fees, and access content.",
+  "trust": "Visible verified-designation placeholder, honest biography, readable process and contact details; no fabricated social proof.",
+  "seo": "Descriptive counselling/Vancouver text, logical headings, indexable copy and service content once verified. Art uses no image network requests.",
+  "tradeoff": "The literary voice needs client approval; long headlines should remain concise for mobile.",
+  "name": "The Editorial Practice",
+  "number": 1,
+  "accessibility": "Keep long serif headlines readable at enlarged text sizes. Preserve dark oxblood on cream for body text and use the pale tones only for decorative shapes. The stacked mobile order follows the reading order."
+}

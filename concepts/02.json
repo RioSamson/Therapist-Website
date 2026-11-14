@@ -1,0 +1,26 @@
+{
+  "tagline": "Architectural calm, coastal light, and a grounded sense of place.",
+  "palette": [
+    "#173136",
+    "#edf0ed",
+    "#9baea3"
+  ],
+  "typography": "Georgia display; Arial information hierarchy.",
+  "rationale": "A framed abstract coastal landscape and structural numbered rows create order and local atmosphere without stock forest photography.",
+  "homepage": [
+    "Architectural hero",
+    "Welcome statement",
+    "Numbered working framework",
+    "Biography and portrait",
+    "Practical questions",
+    "Contact"
+  ],
+  "mobile": "Window stacks after introductory copy; numbered process rows collapse into readable two-column markers and text.",
+  "supporting": "Anchored biography, process and expanded logistics; additional services can become dedicated pages after scope is confirmed.",
+  "trust": "Clear hierarchy and practical answers reduce ambiguity; an authentic portrait establishes the actual practitioner.",
+  "seo": "Text remains live HTML; local context is explicit but not keyword-stuffed. Confirm actual practice location before adding structured data.",
+  "tradeoff": "Dark hero feels assured but may be too formal for a highly playful brand; requires good-quality portrait photography.",
+  "name": "Pacific Architecture",
+  "number": 2,
+  "accessibility": "Light text on the navy hero needs sufficient contrast. Window artwork carries no essential content. Preserve visible link focus and ensure dividers are not the only indication of section boundaries."
+}

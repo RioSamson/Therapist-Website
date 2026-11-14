@@ -1,0 +1,27 @@
+{
+  "id": "08",
+  "name": "The Woven Practice",
+  "tagline": "A distinctive visual language for interconnected lives.",
+  "palette": [
+    "#F4EFE7",
+    "#47243F",
+    "#985C4C",
+    "#EAD8C7"
+  ],
+  "typography": "Georgia with italic accents; Arial for body and practical information.",
+  "rationale": "Custom interwoven linework introduces a memorable identity without generic nature photography. The metaphor allows complexity without claiming a specific treatment orientation.",
+  "homepage": [
+    "Centered headline + woven artwork",
+    "Approach and interconnected experience",
+    "Therapist introduction",
+    "Three possible starting points",
+    "Practical questions",
+    "Contact invitation"
+  ],
+  "mobile": "Centered hero stays legible at 60px, decorative weave crops intentionally, service concepts become concise rows, remaining sections stack.",
+  "supporting": "About profile, verified approach explanation, confirmed service slot, fee/access/inquiry FAQ.",
+  "trust": "Plain-language explanation and real profile information temper the poetic metaphor. No assumptions of family or couples qualifications.",
+  "seo": "Use literal service terminology alongside the metaphor in final headings and metadata. SVG is lightweight and decorative; important information remains HTML.",
+  "tradeoff": "The metaphor can become vague if overused. Pair it with concrete verified services and clear logistics; avoid implying systemic/family training until confirmed.",
+  "accessibility": "Thread artwork conveys no required information. Keep the central heading readable on narrow screens, and ensure plum and muted terracotta text are used on suitable backgrounds."
+}
