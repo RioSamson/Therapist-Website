@@ -1,0 +1,26 @@
+{
+  "name": "Open at Any Page",
+  "tagline": "Four oversized question tabs let visitors choose where to begin.",
+  "palette": [
+    "#23301e",
+    "#e8e7d3",
+    "#c8ca9f",
+    "#aeb98a"
+  ],
+  "typography": "Baskerville headlines and Avenir Next navigation.",
+  "rationale": "The visual centerpiece is the page index itself. Each coloured tab answers a real visitor question and carries the same surface into its destination.",
+  "homepage": [
+    "Question-led introduction",
+    "Four visual jump links",
+    "Counsellor biography",
+    "Approach",
+    "Practical details",
+    "Contact"
+  ],
+  "mobile": "The tabs become a two-by-two grid, followed by the same four sections in page order.",
+  "supporting": "Each tab leads to a complete section and Contact is reachable directly from the opening screen.",
+  "trust": "Plain-language labels and a verified appointment route clarify how the personal site relates to the clinic.",
+  "seo": "The questions and answers are visible HTML and all destinations use ordinary links.",
+  "accessibility": "Tab labels provide meaning independently of colour. Links and native disclosures are keyboard operable.",
+  "tradeoff": "The question grid is intentionally prominent. Keep the approved answers short and specific so the page stays easy to scan."
+}

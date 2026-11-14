@@ -1,0 +1,25 @@
+{
+  "name": "A Personal Introduction",
+  "tagline": "An oversized personal letter, signed by a real person.",
+  "palette": [
+    "#252c19",
+    "#424b2d",
+    "#e7e5d2",
+    "#d1d1ad"
+  ],
+  "typography": "Baskerville for the opening letter and headings, Avenir Next for practical information.",
+  "rationale": "The letter makes the clinic-to-person handoff explicit. The image is a slot for his portrait, with his name and affiliation immediately alongside it.",
+  "homepage": [
+    "Letter and portrait",
+    "Clinic handoff",
+    "Approach",
+    "Practical questions",
+    "Inquiry"
+  ],
+  "mobile": "The opening letter and orientation precede the portrait and details.",
+  "supporting": "First-person biography, a practical description of sessions and a clear clinic relationship.",
+  "trust": "One verified identity and one confirmed inquiry route, with no assumed independent practice.",
+  "seo": "Lead with the verified name, designation and Vancouver context.",
+  "accessibility": "Native disclosures, visible focus, selectable type and a linear reading order.",
+  "tradeoff": "The letter depends on a short introduction that sounds like him. Commission a real portrait before launch."
+}
