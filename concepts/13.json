@@ -1,0 +1,25 @@
+{
+  "tagline": "A cinematic portrait, an oversized personal invitation, and a quiet arrival animation.",
+  "rationale": "The arch frames his actual portrait as the centerpiece. The large invitation and direct inquiry action establish who the site is for and how to begin. A one-time entrance gives the opening a deliberate pace.",
+  "name": "In Good Company",
+  "palette": [
+    "#28391f",
+    "#666e43",
+    "#eeeddd",
+    "#d8dbbd"
+  ],
+  "typography": "Oversized Baskerville serif paired with Avenir Next supporting text.",
+  "homepage": [
+    "Portrait-led opening",
+    "Biography",
+    "Approach",
+    "Practical questions",
+    "Inquiry"
+  ],
+  "mobile": "Portrait remains in the opening composition. Content reflows into a linear page with direct navigation.",
+  "supporting": "Biography, approach, services, fees and contact are included as complete sections.",
+  "trust": "A prominent authentic portrait and approved personal details should be supplied before publication.",
+  "seo": "Keep name, verified designation, services and Vancouver location in visible text. Use descriptive page titles in production.",
+  "accessibility": "Keyboard-accessible anchors and native disclosures. CSS animation stops automatically with reduced-motion preference.",
+  "tradeoff": "The portrait is essential to the final impact. The current placeholder reserves its composition and contains no invented likeness."
+}

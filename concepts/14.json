@@ -1,0 +1,25 @@
+{
+  "tagline": "An opening book with his portrait on one page and your next question on the other.",
+  "rationale": "The book is a direct invitation to know the person. A restrained page-opening animation supports that metaphor, while the oversized contents list gives visitors an immediate route to the information they need.",
+  "name": "The Open Book",
+  "palette": [
+    "#28391f",
+    "#666e43",
+    "#eeeddd",
+    "#d8dbbd"
+  ],
+  "typography": "Oversized Baskerville serif paired with Avenir Next supporting text.",
+  "homepage": [
+    "Portrait-led opening",
+    "Biography",
+    "Approach",
+    "Practical questions",
+    "Inquiry"
+  ],
+  "mobile": "Portrait remains in the opening composition. Content reflows into a linear page with direct navigation.",
+  "supporting": "Biography, approach, services, fees and contact are included as complete sections.",
+  "trust": "A prominent authentic portrait and approved personal details should be supplied before publication.",
+  "seo": "Keep name, verified designation, services and Vancouver location in visible text. Use descriptive page titles in production.",
+  "accessibility": "Keyboard-accessible anchors and native disclosures. CSS animation stops automatically with reduced-motion preference.",
+  "tradeoff": "The portrait is essential to the final impact. The current placeholder reserves its composition and contains no invented likeness."
+}
