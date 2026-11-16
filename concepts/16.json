@@ -1,0 +1,26 @@
+{
+  "tagline": "A painted Vancouver spring with falling pixel petals and a pocket-sized guide.",
+  "rationale": "A cherry blossom canopy frames an illustrated Vancouver inlet. Pixel petals drift across the print and respond to a pointer or tap. A bamboo grove shakes to release more petals, and an inlet marker opens a local note. Pip, an original pixel character, introduces the site and connects the visitor to the counsellor and practical details.",
+  "name": "Under the Blossoms",
+  "palette": [
+    "#252c20",
+    "#65714b",
+    "#e9b4aa",
+    "#f3e9d6"
+  ],
+  "typography": "Locally bundled Manrope and Instrument Serif in roman and italic; word-by-word scroll reveals, oversized editorial headings and a velocity-responsive type ribbon.",
+  "homepage": [
+    "Interactive cherry blossom opening",
+    "Personal introduction and portrait preview",
+    "Conversation cards",
+    "Illustrated first-session guide",
+    "First steps and practical information",
+    "Contact"
+  ],
+  "mobile": "Art crop emphasizes the painted canopy. Tap the opening, bamboo and harbour marker. Navigation and the guide keep the content easy to reach.",
+  "supporting": "Pip is an optional navigation guide. The Vancouver landscape is a stylized illustration.",
+  "trust": "A prominent authentic portrait and approved personal details should be supplied before publication.",
+  "seo": "Keep name, verified designation, services and Vancouver location in visible text. Use descriptive page titles in production.",
+  "accessibility": "Global pause and reduced-motion preference support; native touch and keyboard scrolling; visible focus; ordinary headings and links; selected states for interaction controls. Final production accessibility testing is still required.",
+  "tradeoff": "The counsellor’s approved portrait, copy, credentials and contact details are still needed."
+}
