@@ -1,0 +1,26 @@
+{
+  "tagline": "A living olive landscape leads into a personal introduction and an interactive first-session guide.",
+  "rationale": "The original olive landscape opens the page. Animated illustrations pair a notebook, two chairs and a window with worry, connection and change. The first-session room stays still while labelled markers highlight each stage and show a sample question.",
+  "name": "The Listening Garden",
+  "palette": [
+    "#28391f",
+    "#666e43",
+    "#eeeddd",
+    "#d8dbbd"
+  ],
+  "typography": "Locally bundled Manrope and Instrument Serif in roman and italic; word-by-word scroll reveals, oversized editorial headings and a velocity-responsive type ribbon.",
+  "homepage": [
+    "Refined landscape, drifting mist and responsive leaves",
+    "Interactive personal introduction",
+    "Illustrated conversation starters and example opening words",
+    "Clickable first-session room",
+    "Interactive steps from inquiry to decision",
+    "Filtered practical questions and copyable email starters"
+  ],
+  "mobile": "Stacked personal interview and room guide, large numbered controls and no horizontal overflow at 390px. Selecting a room marker on a narrow screen brings its explanation into view.",
+  "supporting": "The new room is explicitly conceptual, not a photograph of the actual office. Draft personal statements and process examples require approval. Email starters are copied locally and never submitted by this website.",
+  "trust": "A prominent authentic portrait and approved personal details should be supplied before publication.",
+  "seo": "Keep name, verified designation, services and Vancouver location in visible text. Use descriptive page titles in production.",
+  "accessibility": "Global pause and reduced-motion preference support; native touch and keyboard scrolling; visible focus; ordinary headings and links; selected states for interaction controls. Final production accessibility testing is still required.",
+  "tradeoff": "The original 1536×1024 artwork is used again. Actual portrait, credentials and approved practice details are required."
+}
