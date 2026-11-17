@@ -1,0 +1,27 @@
+{
+  "name": "A Little Unfolding",
+  "tagline": "A kinetic olive paper world. Less performing. More being.",
+  "rationale": "Oversized lettering, draggable thought fragments, a curious cursor-following eye and an orbital conversation selector make an expressive personal introduction. Original code-native artwork replaces stock imagery and AI people.",
+  "palette": [
+    "#687044",
+    "#d4e976",
+    "#efeedb",
+    "#d8b6a2",
+    "#252c19"
+  ],
+  "typography": "Locally embedded Manrope and Instrument Serif; monumental sans-serif headlines meet expressive italic gestures.",
+  "homepage": [
+    "Draggable kinetic introduction",
+    "Real portrait preview and unfolding biography",
+    "Four-position conversation wheel",
+    "Interactive woven rhythm illustration",
+    "Expandable practical details",
+    "Contact introduction"
+  ],
+  "mobile": "Single-column compositions, touch-draggable words, tappable orbital prompts and native scrolling. Dedicated desktop/phone preview.",
+  "supporting": "Optional little guide, portrait upload stored only in memory, keyboard-operated selectors and practical details.",
+  "trust": "Placeholder identity, professional designation, biography and contact details must be replaced with verified therapist information.",
+  "seo": "Semantic headings and readable Vancouver copy. Production title and service details require verified identity and scope.",
+  "accessibility": "Reduced motion, a motion toggle, focus indicators, native buttons and details, keyboard interactions, accessible contact dialog. Dragging is optional.",
+  "tradeoff": "A deliberately expressive direction. The opening prioritizes typography; his authentic portrait follows immediately. Contact is a transparent preview, not an active inquiry form."
+}
