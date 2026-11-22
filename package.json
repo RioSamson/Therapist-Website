@@ -1,0 +1,13 @@
+{
+  "name": "therapist-website",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Fifteen design studies for a personal counselling website.",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "check": "node scripts/check.cjs"
+  },
+  "devDependencies": {
+    "lenis": "1.3.27"
+  }
+}

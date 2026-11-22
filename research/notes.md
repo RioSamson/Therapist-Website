@@ -1,0 +1,151 @@
+# TherapistWebsiteGallery
+
+**Research and design direction · Vancouver counselling practice · 14 November 2026**
+
+## The recommendation
+
+Build a small, exceptional information website that helps visitors answer four questions quickly: **Is this person a possible fit for me? What would working together be like? Can I practically access the service? How do I make contact?** Distinctive typography, composition and artwork can make the practice memorable; clear information and a real human presence must carry the decision.
+
+**01 Open at Any Page** is the lead direction. Its four olive question tabs help visitors arriving from the clinic profile find the information they came for. **02 A Personal Introduction** uses a first-person letter and real portrait to make the handoff feel personal. Five further olive directions explore more expressive interactions; eight additional directions remain available under Exploratory themes.
+
+The scope is informational: Home, About & Approach, Services, Fees & Questions, Contact. No calendar, accounts, newsletter, booking workflow or intake form is needed. Email and phone are sufficient when the real contact details are approved. Until then, all names, credentials, services, fees, addresses, availability and photographs of people or premises must remain clearly identified placeholders.
+
+## What the evidence supports
+
+**First impressions respond to visual order.** Tuch and colleagues tested website screenshots at very short exposures. Lower visual complexity and more familiar-looking website structures generally received higher aesthetic ratings. This supports one strong focal point, clear grouping and recognizable navigation. It does not establish that a minimalist therapist website produces more appointments, or that visitors make their entire clinical choice in milliseconds. The research was published in 2012 and measured screenshot judgments, not contemporary mobile therapy inquiries. [Primary study, Google Research](https://research.google/pubs/the-role-of-visual-complexity-and-prototypicality-regarding-first-impression-of-websites-working-towards-understanding-aesthetic-judgments/)
+
+**Attractiveness does not replace content.** Thielsch, Blotenberg and Jaron studied perceived content, usability and aesthetics across three studies. Aesthetics mattered to first impressions; content was important across the phases studied, including intentions to return or recommend. This supports giving the homepage a memorable opening while making qualifications, approach and practical information easy to inspect. Their findings concern perceptions and stated intentions across general websites, not demonstrated therapy conversion. [Primary study, Interacting with Computers](https://doi.org/10.1093/iwc/iwt033)
+
+**There is no universally optimal aesthetic.** Reinecke and colleagues collected ratings for 450 websites from 548 volunteers and modelled how complexity, colourfulness and demographic variables relate to appeal. The work supports testing designs with the intended audience rather than presenting a particular colour as scientifically calming for everyone. It does not provide a universal palette prescription for therapists. [Primary study, Harvard repository](https://dash.harvard.edu/entities/publication/73120378-cc85-6bd4-e053-0100007fdf3b)
+
+**Credibility requires substance behind the presentation.** Stanford’s research-based credibility guidelines recommend verifiable information, visible expertise, real people, clear contact information and professional presentation. For this practice, the reasonable application is an authentic portrait, accurately described qualifications, a link to the relevant professional register if appropriate, a plain-language approach and verified location details. These older general-web guidelines are useful principles, not a modern clinical conversion experiment. [Stanford Web Credibility Guidelines](https://credibility.stanford.edu/guidelines/index.html)
+
+**Design inference for this project:** use expressive art direction with a familiar information structure. A poetic headline needs a plain-language subtitle saying who the therapist is, what they offer and where. Keep contact visible without flashing, countdowns, pop-ups or claims of guaranteed transformation. No source reviewed establishes that any of these fourteen concepts will outperform the others; that requires user testing and, after launch, appropriately measured real inquiries.
+
+## The four references you liked
+
+| Website | Observed pattern | Application for one counsellor |
+|---|---|---|
+| [Fieldwork, Vancouver](https://fieldworkcounselling.ca/) | Therapist profiles use short descriptions of interpersonal style alongside qualifications. Multiple paths help visitors select a therapist. | Explain what sessions feel like in ordinary language. A single clinician needs one clear contact route rather than a matching tool. |
+| [Two Chairs, US](https://www.twochairs.com/) | The homepage explains its care process, introduces clinicians and makes prominent claims about scale and outcomes. | Explain the process clearly. Do not copy statistics, outcome claims or large-service features into a sole-practitioner website. |
+| [MyWellbeing, US](https://mywellbeing.com/) | Therapist portraits and an emphasis on personal fit accompany a simple explanation of the matching process and costs. | Make the human relationship and next step understandable. Matching, insurance and booking functionality exceed this brief. |
+| [Talkspace, US](https://www.talkspace.com/) | Coverage, what is included and how to begin are prominent. The site also uses testimonials and scale claims. | Answer practical concerns early; do not import US coverage assumptions, promotional metrics or testimonials. |
+
+Fieldwork’s desktop opening pairs an atmospheric tabletop photograph with a large white serif headline and a pale yellow action button. For the personal site, an approved portrait or meaningful practice photograph can give the opening a similar point of focus and tell visitors who they will meet. [Fieldwork](https://fieldworkcounselling.ca/)
+
+## Solo therapist websites
+
+I used therapist design roundups to discover candidates and checked the practitioner sites themselves. This shortlist prioritizes a clear personal voice, a specific audience and an easy next step. The solo examples are editorial selections. I did not verify a competitive design award for these sites. [Solo practice design roundup](https://www.welllaunched.com/post/therapist-website-examples-what-great-solo-practices-have-in-common) · [Therapist design inspiration](https://www.zarla.com/inspiration/therapist)
+
+| Practitioner | What the website does | What to use here |
+|---|---|---|
+| [Therapy with Gayane, California](https://www.therapywithgayane.com/) | Leads with one specific audience and names situations that audience may recognize. Gayane then connects her first-person introduction to that focus. | Name the verified audience or scope in ordinary language near the first action. Give the biography one clear reason to be there. |
+| [Psychotherapy with Philippa, UK](https://www.therapywithphilippa.com/) | Introduces Philippa and her way of working early. About, Therapy, FAQ and Contact each have a clear place in navigation. The introductory call is explained as a chance to ask questions and assess fit. | Put his personality and working style beside practical navigation. Describe what happens after an inquiry through his confirmed route. |
+| [Julie Delmar, Australia and UK](https://juliedelmar.com/) | Gives online scope and regions early, distinguishes first-time and returning clients, and connects her international background to her personal approach. | State where and how he sees clients, including the clinic relationship. Include biography details that help visitors understand his approach. |
+| [Everbe Therapy, Virginia and Washington, DC](https://everbetherapy.com/home) | Uses a recognizable tension for its intended audience and pairs it with an explicit location and online format. Its practitioner-led voice is consistent through the approach section. | Pair an expressive opening with a plain-language statement of who he sees. Keep any outcome language grounded in what he can verify. |
+
+## Award-recognized service websites beyond therapy
+
+| Website | Verified recognition | What transfers |
+|---|---|---|
+| [Righteous Creative](https://righteouscreative.com/) | 2026 Webby and People’s Voice winner in Professional Services & Self-Promotion. [Webby category record](https://winners.webbyawards.com/winners/websites-and-mobile-sites/general-desktop-mobile-sites/professional-services-self-promotion) | It gives its distinct identity a clear service position and offers a dedicated service breakdown. Pair the olive visual identity with explicit headings for approach, fees and contact. |
+| [Fiddle.Digital](https://fiddle.digital/) | 2025 Webby winner in Professional Services & Self-Promotion. [Winning entry](https://winners.webbyawards.com/2025/websites-and-mobile-sites/general-desktop-mobile-sites/professional-services-self-promotion/339211/fiddledigital-design-agency) | The opening identifies the work immediately and supplies a contact action alongside the expressive design. The counselling site can do the same with the therapist’s name, role and a way to reach him. |
+| [Raw Materials](https://www.dandad.org/work/d-ad-awards-archive/raw-materials-an-unusual-design-company) | 2024 Webby winner in Professional Services & Self-Promotion and recognized for navigation and structure. [Webby winning entry](https://winners.webbyawards.com/2024/websites-and-mobile-sites/features-design/best-navigationstructure/281127/raw-materials--an-unusual-design-company) | The studio’s art direction expresses its service philosophy. Apply that principle by making the olive concept’s largest visual element do a job: the question tabs take visitors straight to the answers. |
+
+## Content that should earn its place
+
+A good homepage sequence is: a clear welcome and contact action; a concise explanation of who the practice helps; a real introduction to the clinician; what working together involves; fees and practical details; common questions; contact. Individual concepts can reorder these to suit their visual storytelling, while preserving quick access to essentials.
+
+The About page should distinguish the therapist’s identity, qualifications and working style. Translate professional modalities into what a visitor can reasonably expect, with the clinician reviewing the wording. Services should describe only confirmed populations and concerns. Fees should show the actual rate, session length and applicable policies when approved. Contact should include the verified address or service area, phone/email, access information and truthful response expectations. These are recommendations for reducing unanswered questions; they are not clinical advice or promises about outcomes.
+
+Use a real portrait and real practice images when available. Until then, a clearly marked portrait placeholder is more honest than a stock person presented as the therapist. Abstract artwork can establish character, but should not carry essential information. All illustrative sample copy needs clinician review before publication.
+
+## Search visibility: what actually matters
+
+**Visibility** is whether relevant people see the practice in search. **Engagement** describes what visitors do on the site. **Conversion** is a meaningful next step, such as an inquiry; clicking an email link is only an intent signal, not proof that an inquiry was sent or a session arranged. A tool’s “SEO score” is a diagnostic checklist, not a forecast of traffic, clinical fit or revenue.
+
+Google says local results depend mainly on relevance, distance and prominence/popularity. Complete, accurate Business Profile details help Google understand the practice; physical distance is not something visual design can fix. If eligible, verify and maintain the actual business profile, address, category, hours and photographs. Keep information consistent with the website and legitimate professional listings. [Google Business Profile local ranking guidance](https://support.google.com/business/answer/7091)
+
+For the website, use descriptive page titles, helpful original text, crawlable links and sensible page organization. Write naturally about the actual service and Vancouver location; do not repeat city names mechanically. A suitable title pattern is “[Verified service] in Vancouver | [Therapist name]”. Give genuinely distinct confirmed services their own useful pages when warranted. Do not create near-identical pages for every neighbourhood. Google explicitly offers no automatic first-place ranking formula; changes may take weeks or longer to evaluate. [Google SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
+
+Performance should support the design. Compress and size images appropriately, keep text as real text, reserve image space to prevent layout jumps and avoid heavyweight video backgrounds. Google’s Core Web Vitals guidance targets LCP within 2.5 seconds, INP below 200 ms and CLS below 0.1. These are implementation targets to verify on the real site; the concepts have not earned live performance scores. [Google Core Web Vitals guidance](https://developers.google.com/search/docs/appearance/core-web-vitals)
+
+Accurate LocalBusiness structured data can describe a business to search engines. Select a type appropriate to the verified practice, include only true public information and validate it. Structured data does not guarantee enhanced search results. Do not mark up invented reviews, prices, credentials or medical classifications. [Google LocalBusiness documentation](https://developers.google.com/search/docs/appearance/structured-data/local-business)
+
+Google discusses reviews as a local signal, but general business advice is not a sufficient basis for a therapist testimonial strategy. Before any review solicitation or testimonial use, the clinician should confirm their applicable professional obligations and confidentiality approach. This project uses none. Legitimate professional-directory profiles, accurate information and useful content are safer starting tasks than building a campaign around patient endorsements.
+
+After launch, use Search Console to observe indexing, relevant queries, impressions and clicks. Review inquiry quality with the clinician without recording clinical details in analytics. If analytics are added, measure contact-link use separately from actual inquiries and sessions. Compare trends rather than promising a visitor count before the practice’s specialties, competition, existing domain and search demand are known.
+
+## Accessibility and responsive design
+
+Aim for WCAG 2.2 AA in implementation. Normal text needs at least 4.5:1 contrast; large text needs at least 3:1. Muted palettes still require readable text. [W3C contrast guidance](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html)
+
+WCAG 2.2’s minimum pointer target criterion is 24 by 24 CSS pixels, with stated exceptions including spacing. For the primary mobile actions, a more generous approximately 44-pixel target is a practical design choice. [W3C target-size guidance](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html)
+
+Also verify keyboard operation, visible focus, heading order, link names, alternative text, text enlargement and responsive reflow. Essential information must not depend on hover, colour or animation. Use a linear mobile reading order; avoid sideways scrolling for ordinary content. Any optional motion should be restrained and respect reduced-motion preferences. These are launch checks, not a claim that an exploratory mockup is certified compliant. [WCAG 2.2](https://www.w3.org/TR/WCAG22/)
+
+## Comparing the fourteen directions
+
+The first six are Olive green themes. The remaining eight are Exploratory themes.
+
+| Concept | Distinctive opportunity | What to check |
+|---|---|---|
+| **01 Open at Any Page** | A dramatic olive and cream question index turns the graphic centerpiece into navigation. Visitors can jump straight to approach, fees or contact. | Can visitors locate the relevant answer quickly? Keep the labels direct and the answers specific. |
+| **02 A Personal Introduction** | Olive portrait panel and an oversized letter make the transition from clinic profile to individual counsellor explicit. | Does the opening sound like him? Use his approved words and a real portrait. |
+| **03 In Good Company** | Cinematic portrait framing and a large invitation to meet this counsellor. | Supply the real portrait. Review entrance motion with reduced-motion enabled. |
+| **04 The Open Book** | An opening-book composition pairs the portrait with a large, functional contents list. | Keep the biography personal and the contact route verified. |
+| **05 The Listening Garden** | Refined landscape and drifting mist, an interactive personal introduction, conversation illustrations and a first-session room guide. | Supply the real portrait and validate motion on target phones. |
+| **06 Under the Blossoms** | A painted Vancouver shoreline, interactive pixel petals, bamboo and Pip. | Check the phone crop, motion controls and guide discoverability. |
+| **07 The Editorial Practice** | A strong authorial voice with the polish of a considered publication. | Keep expressive headlines readable and ensure the clinician feels approachable. |
+| **08 Pacific Architecture** | Place, structure and generous space suggest an established Vancouver practice. | Architectural restraint must not feel impersonal; imagery should remain light to load. |
+| **09 Quiet Gallery** | Art-led presentation offers distinction and visual breathing room. | The therapist and contact details must not become secondary to the artwork. |
+| **10 The Field Guide** | An organized guide can make a first visit feel understandable. | Avoid excessive editorial density or language that suggests a generic self-help product. |
+| **11 Room for You** | A welcoming, personal atmosphere can make the practitioner feel tangible. | Needs authentic portrait/space assets and careful contrast in warm tones. |
+| **12 The Woven Practice** | Interconnected visual forms can express relationships without stock family photos. | Abstract motifs should remain decorative and must not imply unconfirmed family services. |
+| **13 City & Stillness** | Urban character differentiates the practice from familiar nature-led wellness branding. | Avoid an overly fashionable tone or location claims unsupported by the actual office. |
+| **14 Small Steps** | A sequential introduction lowers the effort of understanding how to begin. | Keep the sequence optional to scan; never force visitors through a funnel to reach contact. |
+
+## What to confirm before selecting and publishing
+
+Confirm the clinician’s public name, exact professional designation, registration details, services, intended clients, modalities, location, in-person/online scope, fees, session lengths, contact channels, availability, accessibility information and image permissions. Confirm whether the name the project owner belongs to the therapist or is only the project recipient. Do not turn it into a practice identity without confirmation.
+
+Choose three concepts for a brief review with representative prospective users: can they identify the service and location, explain the approach, find fees, and locate contact without coaching? Ask what feels trustworthy, unclear or uncomfortable. Revise based on observed difficulty rather than asking only which design looks nicest. This is a recommended evaluation method, not research already performed.
+
+Before launch: replace every placeholder; obtain clinician approval of claims; verify links and contact details; test desktop/mobile and keyboard use; check contrast and zoom; compress assets; verify titles, indexability, sitemap and structured data; configure Search Console; review privacy and professional requirements relevant to the actual practice. The final website should make a strong impression and then make choosing a next step straightforward.
+
+
+## Expressive personal-site inspiration
+
+Bruno Simon’s portfolio received Best Portfolio Site in the 2025 CSS Design Awards. Its immersive personal world shows how the experience can communicate the practitioner’s own identity. For these concepts, that principle becomes a portrait-led personal introduction, expressive navigation and a short arrival animation. [Official award results](https://www.cssdesignawards.com/blog/2025-website-of-the-year-winners/430/)
+
+The new olive concepts use that principle alongside the service clarity of the Webby-recognized sites above. Their visual compositions are original. The actual counsellor’s photograph has not been supplied in this chat, so the opening areas reserve substantial space for it. In Good Company uses a cinematic portrait frame. The Open Book pairs the portrait with direct questions visitors can explore. The first two olive concepts now give the portrait more space and strengthen their opening typography.
+
+
+## StringTune-inspired interaction study
+
+A visual review of [StringTune by Fiddle.Digital](https://string-tune.fiddle.digital/) showed an unusually cohesive experience: a dark opening dominated by oversized lettering and detailed artwork, a dramatic animated object moving through the composition, sticky scenes, changes of scale, and a recurring character. Its technical description also highlights cursor tracking and scroll progress. The useful lesson is to design the whole sequence around a visual world; attaching a small animation to an ordinary layout does not create the same effect.
+
+### The Listening Garden — therapy-centred interaction revision, 16 November 2026
+
+The fifth olive concept retains a single full-width garden opening and its scrolling typography transition. The original garden artwork was restored after review. Two slowly moving atmospheric layers are masked around the foreground tree, adding depth around the distant landscape without blurring the whole image. Falling leaves still respond to the cursor. Pixelation and the oversized leaf sculpture remain removed.
+
+Every lower section now connects an interaction to a prospective client’s question:
+
+| Section | Interaction | Purpose |
+|---|---|---|
+| Personal introduction | Three selectable interview themes beside the portrait | Explore the counsellor’s voice, listening style and fit; all first-person copy remains a draft for his approval. |
+| Conversation starters | Animated illustrations of a notebook, paired chairs and a changing view, linked to example opening words | Make the meaning explicit instead of asking abstract rings to communicate therapeutic relevance. |
+| First-session guide | A stationary two-chair room with labelled markers, warm light highlights and corresponding question prompts | Explain arriving, talking together and asking about next steps. This is an illustration, not his real office or a guaranteed session protocol. |
+| Getting started | Three selectable stages with an illustrated inquiry note | Help visitors understand the transition from inquiry to deciding whether to begin. |
+| Practical information | Meeting and cost/coverage filters with expandable questions | Make useful details easier to find. The actual facts remain placeholders. |
+| Contact | Two optional opening messages with a copy button | Reduce the effort of writing an initial inquiry; nothing is sent or collected. |
+
+The spinning abstract thread artwork has been removed. Its visual interest is replaced by an interactive room tied directly to the first-session experience. On small screens, choosing a room marker brings its explanation into view. The personal introduction still needs the real portrait and approved words to feel genuinely specific to him.
+
+The broader motion approach draws on the earlier [StringTune](https://string-tune.fiddle.digital/) review. [Lenis](https://github.com/darkroomengineering/lenis) remains bundled locally with its MIT license for desktop wheel smoothing; touch scrolling is native. The global pause control and reduced-motion preference also stop the drifting atmosphere. Manrope and Instrument Serif remain bundled with their font licenses. No new claim is made that visual novelty increases therapy inquiries or improves search ranking.
+
+The design must be populated with verified information and reviewed by the counsellor before publication. Generated artwork is not evidence of the real premises or a clinical outcome. New asset specifications and exact prompts are recorded in `assets/ArtworkNotes.md`.
+
+### Original artwork provenance
+
+Generated with the built-in image-generation tool for this concept; saved as `assets/listening-garden-sharp.webp` and embedded into the HTML. Prompt: “Create a breathtaking fine-art cinematic 3D landscape for an experimental personal therapist website. Landscape 1536x1024 composition. An enormous sculptural ancient olive tree with naturally irregular twisting trunk, incredibly refined small silver olive leaves, emerging from a floating weathered limestone island hovering above dark still water. A circular pale warm sun behind the canopy, atmospheric mist, delicate suspended petals. Olive green and charcoal palette, pale limestone, aged bronze highlights. Beautifully believable organic tree anatomy, expensive art direction, Japanese landscape print compositional balance mixed with photoreal miniature sculpture, tactile stone and botanical detail. Wide scene with tree centered, dark empty edges suitable for overlay text. No people, no buildings, no text, no logos. Soft light from upper left, subtle grain, richly layered depth. This is original imaginary contemplative landscape art, not an actual therapy office.”

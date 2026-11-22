@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>TherapistWebsiteGallery — Fourteen design directions</title>
+<style>
+:root{--paper:#f5f3ed;--ink:#202b29;--muted:#59645d;--line:#cdd1c6;--accent:#345e49}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}button,select{font:inherit}button,a,select{-webkit-tap-highlight-color:transparent}button{cursor:pointer}button:focus-visible,a:focus-visible,select:focus-visible{outline:3px solid #bf4e28;outline-offset:4px}button{color:inherit}a{color:inherit;text-underline-offset:4px}header{padding:26px 5vw;border-bottom:1px solid var(--line);display:flex;gap:20px;justify-content:space-between;align-items:center}.brand{font-weight:750;letter-spacing:-.5px}.brand small{display:block;font-size:10px;font-weight:500;letter-spacing:2px;text-transform:uppercase}.topnav{display:flex;gap:25px;font-size:13px}.cover{padding:70px 5vw 52px;max-width:1440px;margin:auto}.eyebrow{text-transform:uppercase;letter-spacing:2px;font-size:11px;font-weight:700}.cover h1{font:clamp(44px,6.5vw,90px)/.99 Georgia,serif;letter-spacing:-3px;font-weight:400;max-width:900px;margin:25px 0}.cover h1 em{color:var(--accent)}.intro{max-width:630px;color:var(--muted);font-size:18px}.cover-bottom{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-top:35px}.cover-bottom p{max-width:620px;font-size:13px;margin:0}.stamp{font-size:12px;text-align:right;white-space:nowrap}.section{max-width:1440px;margin:0 auto;padding:40px 5vw 60px}.sectionhead{display:flex;justify-content:space-between;gap:20px;align-items:baseline;border-top:1px solid var(--ink);padding-top:20px;margin-bottom:26px}.sectionhead h2{font:36px/1.15 Georgia,serif;margin:0}.sectionhead p{font-size:13px;color:var(--muted)}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:40px 28px}.concept-card{min-width:0}.thumb-button{width:100%;padding:0;border:0;display:block;text-align:left;background:#e9e6de;overflow:hidden;position:relative}.thumb-viewport{width:100%;aspect-ratio:1.66;overflow:hidden;pointer-events:none}.thumb-viewport iframe{display:block;width:1200px;height:850px;border:0;transform-origin:0 0;pointer-events:none}.thumb-button::after{content:'Explore concept ↗';position:absolute;right:16px;bottom:16px;padding:9px 14px;background:var(--ink);color:white;font-size:12px;border-radius:2px}.thumb-button:hover::after{background:var(--accent)}.cardline{display:flex;justify-content:space-between;align-items:baseline;gap:15px;margin-top:15px}.cardline h3{font:25px/1.2 Georgia,serif;margin:0}.number{font:12px monospace;color:var(--muted)}.carddesc{font-size:14px;color:var(--muted);margin:8px 0;max-width:95%}.swatches{display:flex;gap:5px;margin-top:13px}.swatch{width:18px;height:18px;border-radius:50%;border:1px solid #0002}.shortlist{font-size:10px;text-transform:uppercase;letter-spacing:1px;border:1px solid var(--line);padding:4px 7px;white-space:nowrap}.viewer{display:none;border-top:1px solid var(--ink);background:#e7e9e3;padding:30px 4vw 50px;scroll-margin-top:15px}.viewer.is-open{display:block}.viewer-top{display:flex;justify-content:space-between;align-items:center;gap:20px;max-width:1440px;margin:auto}.viewer h2{font:35px/1.2 Georgia,serif;margin:6px 0 12px}.controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center}button.control,select.control{border:1px solid #aab2a7;padding:9px 14px;background:transparent;border-radius:3px;min-height:44px}button.control.active{background:var(--ink);color:white;border-color:var(--ink)}.viewer-help{max-width:1440px;margin:15px auto;font-size:12px;color:#4b574e}.preview-stage{width:100%;overflow:auto;margin:24px auto 0;max-width:1440px}.preview-device{width:100%;margin:auto;background:white;border:1px solid #c8ccc4;transition:width .2s}.preview-device.phone{width:406px;max-width:100%;border:8px solid #202b29;border-radius:26px;overflow:hidden}.preview-device iframe{border:0;width:100%;height:850px;display:block;background:white}.preview-device.phone iframe{height:780px}.concept-notes{max-width:1440px;margin:34px auto 0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px 35px}.note{border-top:1px solid #b8c0b3;padding-top:15px;min-width:0}.note h3{font-size:11px;letter-spacing:1.3px;text-transform:uppercase;margin:0 0 8px}.note p,.note ul{font-size:14px;margin:0;line-height:1.6}.note ul{padding-left:18px}.research{max-width:1000px;margin:auto;padding:60px 5vw 80px}.research h1{font:48px/1.1 Georgia,serif;margin:0 0 20px}.research h2{font:30px/1.2 Georgia,serif;margin:44px 0 18px}.research p,.research li{font-size:15px;line-height:1.8}.research a{color:#245a43;overflow-wrap:anywhere}.research table{border-collapse:collapse;width:100%;font-size:13px;line-height:1.55}.research th,.research td{text-align:left;vertical-align:top;border-bottom:1px solid #cdd1c6;padding:14px 10px}.research th{background:#e8ece4}.research th:first-child,.research td:first-child{padding-left:0;min-width:145px}.research .tablewrap{overflow:auto}.research-intro{border-top:1px solid var(--ink);padding:22px 0;margin-bottom:25px;font-size:12px;text-transform:uppercase;letter-spacing:1px}.footer{padding:30px 5vw;background:var(--ink);color:#f5f3ed;font-size:12px;display:flex;justify-content:space-between;gap:20px}.decision{background:#e6ebdf;margin:20px 0 0;padding:26px 30px;display:grid;grid-template-columns:1fr 1fr 1fr;gap:30px}.decision h3{font:22px Georgia,serif;margin:6px 0 12px}.decision p{font-size:13px;margin:0}.decision button{background:none;padding:0;text-align:left;border:0;text-decoration:underline;text-underline-offset:5px}.close{border:0;background:none;font-size:13px;text-decoration:underline;min-height:44px;padding:10px}.hide{display:none!important}@media(max-width:750px){header{padding:20px 6vw;align-items:start;flex-direction:column}.cardline{flex-wrap:wrap}select.control{max-width:100%;min-width:0}.topnav{gap:14px;font-size:12px}.brand{font-size:14px}.brand small{font-size:8px;letter-spacing:1px}.cover{padding:45px 6vw 30px}.cover h1{letter-spacing:-1.5px}.cover-bottom{display:block}.stamp{text-align:left;margin-top:18px}.section{padding:30px 6vw}.sectionhead{display:block}.sectionhead h2{font-size:30px}.sectionhead p{margin:12px 0}.grid{grid-template-columns:1fr;gap:30px}.cardline h3{font-size:25px}.viewer{padding:25px 4vw}.viewer-top{display:block}.viewer h2{font-size:29px}.controls{margin-top:15px}.concept-notes{grid-template-columns:1fr}.decision{grid-template-columns:1fr;padding:24px}.research{padding:40px 6vw}.research h1{font-size:35px}.research h2{font-size:27px}.research table{min-width:640px}.footer{display:block}.preview-device iframe{height:720px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}@media print{header,.cover,.section,.viewer,.footer{display:none!important}.research{max-width:none;padding:0}.research a{color:inherit}.research table{font-size:10px}.research h2{break-after:avoid}.research tr{break-inside:avoid}}
+.exploratory{margin-top:58px}.card-notes{margin-top:14px;border-top:1px solid var(--line)}.card-notes summary{cursor:pointer;padding:12px 0;font-size:14px;font-weight:650}.card-notes .note{margin:0 0 12px}.card-notes .note h3{margin-bottom:4px}
+</style></head><body>
+<header><div class="brand">TherapistWebsiteGallery<small>Research & art direction · November 2026</small></div><nav class="topnav" aria-label="Report navigation"><a href="#concepts">15 concepts</a><a href="#research">Research</a></nav></header>
+<main><div class="cover"><div class="eyebrow">Vancouver counselling practice / design exploration</div><h1>A different kind<br>of <em>first impression.</em></h1><p class="intro">Fifteen distinct directions for a personal, professional website that helps the right people feel ready to make contact.</p><div class="cover-bottom"><p>Open a concept in a new tab and switch between desktop and phone. Expand Design details here for the thinking behind each direction. All therapist identities, qualifications, services and contact details are placeholders. These are design studies, ready for selection—not publication.</p><div class="stamp">15 visual directions<br>Desktop + mobile · works offline</div></div></div>
+<section id="concepts" class="section" aria-label="Website concepts">
+<div class="sectionhead"><h2>Olive green themes</h2><p>Your favourite appears first. Each preview opens in a new tab.</p></div>
+<div class="grid" id="oliveGrid"></div>
+<div class="sectionhead exploratory"><h2>Exploratory themes</h2><p>Eight more directions to compare.</p></div>
+<div class="grid" id="conceptGrid"></div>
+<p id="previewStatus" role="status"></p>
+</section>
+<article id="research" class="research"><div class="research-intro">The research brief / evidence, local search & selection</div><!--RESEARCH--></article></main><footer class="footer"><span>Therapist website exploration · 14 November 2026</span><span>Concept artwork is original. Sample copy requires clinician approval.</span></footer>
+<script>
+const concepts=/*CONCEPT_DATA*/;
+const $=id=>document.getElementById(id);
+const escapeHtml=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function displayValue(v){if(Array.isArray(v))return '<ul>'+v.map(x=>'<li>'+displayValue(x)+'</li>').join('')+'</ul>';if(v&&typeof v==='object')return Object.entries(v).map(([k,x])=>'<div><strong>'+escapeHtml(k)+':</strong> '+displayValue(x)+'</div>').join('');return escapeHtml(v||'');}
+function paletteValues(v){if(Array.isArray(v))return v.map(x=>typeof x==='string'?x:(x.hex||x.color||Object.values(x).find(y=>/^#/.test(y)))).filter(Boolean);if(v&&typeof v==='object')return Object.values(v);return (String(v).match(/#[0-9a-f]{6}/gi)||[]);}
+function notesFor(c) {
+  const fields = [['Design idea',c.rationale],['Palette & typography',{Palette:c.palette,Typography:c.typography}],['Homepage sequence',c.homepage],['Phone layout',c.mobile],['Supporting content',c.supporting],['Trust & contact',c.trust],['Search visibility',c.seo],['Accessibility',c.accessibility],['Tradeoff',c.tradeoff]];
+  return fields.filter(([,value])=>value).map(([label,value])=>'<section class="note"><h3>'+label+'</h3><div>'+displayValue(value)+'</div></section>').join('');
+}
+
+function numberedPreview(c) {
+  return c.html.replace(/(DESIGN (?:STUDY|CONCEPT) )\d+/gi,'$1'+String(c.display).padStart(2,'0'))
+    .replace(new RegExp('>'+c.id+' / ', 'g'),'>'+String(c.display).padStart(2,'0')+' / ');
+}
+
+function openPreview(c) {
+  const tab=window.open('','_blank');
+  if (!tab) {
+    $('previewStatus').textContent='Allow pop-ups for this gallery and select the concept again.';
+    return;
+  }
+  $('previewStatus').textContent='';
+  tab.opener=null;
+  const doc=tab.document;
+  doc.open();
+  doc.write(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escapeHtml(c.name)} · Concept preview</title><style>
+    *{box-sizing:border-box}body{margin:0;background:#e7e9e3;color:#202b29;font:15px/1.4 system-ui,sans-serif}.shell{height:100vh;height:100dvh;display:flex;flex-direction:column}header{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;padding:10px 18px;background:#f5f3ed;border-bottom:1px solid #b9c0b5}.modes{display:flex;gap:8px}button{font:inherit;min-height:44px;padding:6px 12px;border:1px solid #536359;border-radius:4px;background:transparent;color:inherit;cursor:pointer}button[aria-pressed=true]{background:#26392e;color:white}button:focus-visible{outline:3px solid #af542a;outline-offset:2px}.stage{flex:1;min-height:0;display:flex;justify-content:center}iframe{border:0;width:100%;height:100%;display:block;background:white}.phone{padding:10px}.phone iframe{width:406px;max-width:100%;border:8px solid #26392e;border-radius:22px}
+  </style></head><body><div class="shell"><header><strong>${escapeHtml(c.name)}</strong><div class="modes" role="group" aria-label="Preview width"><button id="desktop" type="button" aria-pressed="true">Desktop</button><button id="phone" type="button" aria-pressed="false">Phone</button></div></header><main class="stage"><iframe title="${escapeHtml(c.name)} homepage" sandbox="allow-same-origin allow-scripts"></iframe></main></div></body></html>`);
+  doc.close();
+  const frame=doc.querySelector('iframe');
+  const stage=doc.querySelector('main');
+  const desktop=doc.getElementById('desktop');
+  const phone=doc.getElementById('phone');
+  function setPhone(active) {
+    stage.classList.toggle('phone',active);
+    desktop.setAttribute('aria-pressed',String(!active));
+    phone.setAttribute('aria-pressed',String(active));
+  }
+  desktop.onclick=()=>setPhone(false);
+  phone.onclick=()=>setPhone(true);
+  frame.addEventListener('load',()=>{
+    const page=frame.contentDocument;
+    page.querySelectorAll('a[href^="#"]').forEach(link=>link.addEventListener('click',event=>{
+      const target=page.getElementById(link.getAttribute('href').slice(1));
+      if(target){event.preventDefault();target.scrollIntoView();}
+    }));
+  });
+  frame.srcdoc=numberedPreview(c);
+}
+
+concepts.forEach(c=>{
+  const article=document.createElement('article');
+  article.className='concept-card';
+  const name=escapeHtml(c.name);
+  const number=String(c.display).padStart(2,'0');
+  const swatches=paletteValues(c.palette).map(x=>'<span class="swatch" style="background:'+escapeHtml((String(x).match(/#[0-9a-f]{6}/i)||['#ccc'])[0])+'" title="'+escapeHtml(x)+'"></span>').join('');
+  article.innerHTML='<button class="thumb-button" type="button" aria-label="Explore '+name+' (opens in a new tab)"><div class="thumb-viewport"><iframe title="'+name+' overview" tabindex="-1" aria-hidden="true" sandbox=""></iframe></div></button><div class="cardline"><h3><span class="number">'+number+' / </span>'+name+'</h3>'+(c.display===1?'<span class="shortlist">Your favourite</span>':'')+'</div><p class="carddesc">'+escapeHtml(c.tagline||c.rationale)+'</p><div class="swatches">'+swatches+'</div><details class="card-notes"><summary>Design details</summary>'+notesFor(c)+'</details>';
+  $(c.display<=7?'oliveGrid':'conceptGrid').append(article);
+  article.querySelector('iframe').srcdoc=numberedPreview(c);
+  article.querySelector('button').addEventListener('click',()=>openPreview(c));
+});
+const resize=()=>document.querySelectorAll('.thumb-viewport').forEach(v=>{v.querySelector('iframe').style.transform='scale('+v.clientWidth/1200+')';});
+const observer=new ResizeObserver(resize);
+observer.observe($('oliveGrid'));
+observer.observe($('conceptGrid'));
+resize();
+document.querySelectorAll('.research table').forEach(t=>{const w=document.createElement('div');w.className='tablewrap';t.before(w);w.append(t);});
+</script></body></html>
